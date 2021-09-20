@@ -34,11 +34,11 @@ canvas{
   canvas
   {
     width: 300px;
-    height: auto;
+    height: 400px;
   }  
   #camera
   {
     width: 300px;
-    height: auto;
+    height: 400px;
   }
 }
